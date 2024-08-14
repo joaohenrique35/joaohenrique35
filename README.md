@@ -1,12 +1,12 @@
-## Olá 👋
+<h1>I N V I C T U S</h1>
 
 <!--
 **joaohenrique35/joaohenrique35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h1>Sobre Mim</h1>
-👋 Olá! Sou [Seu Nome], desenvolvedor(a) apaixonado(a) por tecnologia e inovação. Com [X anos] de experiência em desenvolvimento de software, me especializo em [suas especializações, como front-end, back-end, desenvolvimento mobile, etc.].
+<h3>Sobre Mim</h3>
+👋 Olá! Sou João Henrique, desenvolvedor apaixonado por tecnologia e inovação. Com 25 de experiência na área da tecnologia, sou formado em Segurança da Informação, com especialização em Desenvolvimento Web Full Stack.
 
-Minha jornada na programação começou com [breve história ou motivação], e desde então, tenho me dedicado a criar soluções eficientes e escaláveis. Gosto de trabalhar com [principais tecnologias que você usa] e estou sempre buscando aprender novas linguagens e frameworks para expandir minhas habilidades.
+Minha jornada na programação começou no início dos anos 2000, e desde então, tenho me dedicado a ensinar o que eu aprendi ao longo desta jornada. Gosto de trabalhar com Front-End e estou sempre buscando aprender novas linguagens e frameworks para expandir minhas habilidades.
 
 Áreas de Interesse
 Desenvolvimento Web: Criação de aplicações modernas e responsivas com [tecnologias específicas, como React, Angular, etc.].
